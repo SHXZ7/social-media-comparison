@@ -26,7 +26,6 @@ ytcookies.txt
 cookies_*.txt
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -36,6 +35,9 @@ cookies_*.txt
 Thumbs.db
 
 # Environment files
-.env
-.env.local
 .env.*.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
